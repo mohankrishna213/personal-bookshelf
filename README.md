@@ -20,7 +20,7 @@
 
 ## Deployment
 
-The project is deployed on Netlify. You can view it [https://admirable-frangipane-97cb88.netlify.app/](https://your-netlify-deployment-link).
+The project is deployed on Netlify. You can view it [here](https://admirable-frangipane-97cb88.netlify.app/).
 
 ## Features
 
